@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @polevshikova
+- 👀 I’m interested in iOS.
+- 🌱 I’m currently learning Swift.
+- 💞️ I’m looking to collaborate with mentor of Swift.
+- 📫 How to reach me - julia8978@gmail.com (89877099091).
